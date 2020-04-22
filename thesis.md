@@ -1,3 +1,5 @@
 # My great thesis
 
-Author: Philipp!
+
+
+Schreiberling: Philipp
